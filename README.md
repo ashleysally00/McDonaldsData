@@ -4,6 +4,7 @@ For my project I wanted to answer the question: what Mcdonald's drive-thrus are 
 
 I got the data free from the following site:
 https://data-m8.com/products/list-of-all-mcdonalds-locations-in-the-us-csv-and-json
+* not sure what happened, but it looks like it is no longer free, sry
 
 I wanted to learn to clean the data and visualize it. 
 ChatGPT suggested I use folium and geoPandas:
